@@ -1,7 +1,7 @@
 # 개발 환경
 <span>
   <h3>진행한 프로젝트</h3>
-![GrowLogo](https://github.com/user-attachments/assets/d31c6ee7-c586-4b17-819e-e7fd6ee97ee4)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
 
   <h3>개발 툴</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
