@@ -1,7 +1,7 @@
 # 개발 환경
 <span>
   <h3>진행한 프로젝트</h3>
-  <img src="https://github.com/user-attachments/assets/ba0ba0c7-3ce3-4e0c-b0ce-bf16af810855/>
+ ![GrowLogo](https://github.com/user-attachments/assets/7dd3dd43-708b-41a5-9a1c-4737c669e069)
   <h3>개발 툴</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor_AI-000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABaElEQVR42mL8//8/AxXAe1CoxAc0K36A/j+QiXArwb6AQUAwIIFw39DZVS5kCwDCC4qCPwPpKlENIAdAQnkTlgP5bMi/gPoZHZFNAHQFSAPkPnUStwNwFByf4//+14a0gzYPzP2PfACZgf5G5BSWBGgEuWHD/gTprgq8DZdDlEU/7rGVB6MxkCWZoCchvIfEVYCpAkLpfnl/8P83/n//f/JzMh/BMUtgvkfwJqBkKnQsQEU/wvI/2q1BS1M0XlHBOoCGADJDwAfIh9jwJX3x4xFzIXqMEfAdYB/Jf/OTM7Iz8n/C9g/8F5ijHjD+BaWJktIF+L5TwwfwDgE+QFWAewGZB7IC7FFvDqFEEgiP2m/8jUzMjo3+v7D8xFNI/XR+aGGgcfF/FchYHJgkCPxT8oVFYHYNRPoFkgUpFCQX8k0MSsBwQCRkCczEKUGQA5kfpJ6IBWTPAKTAmD5GfgFGDoV5uCCxRkApwAN8q9T3IFgAAAABJRU5ErkJggg=="/>
