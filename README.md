@@ -1,7 +1,7 @@
 # 개발 환경
 <span>
   <h3>진행한 프로젝트</h3>
-  <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="300px">
+  <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="200px">
 
 
   <h3>개발 툴</h3>
