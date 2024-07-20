@@ -4,7 +4,7 @@
 
   <div>
     <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="200px">
-    [미니 1차 휴먼 클라우드 PPT.pdf](https://github.com/chugue/grow-ssr-deploy/files/15454109/1.PPT.pdf)
+    https://github.com/HaSenugJin/grow-ssr-deploy
     <img src="https://github.com/coderyu5523/project-final-flutter/assets/153602328/43997232-c0e8-4d70-969a-ab56c0411a9e" alt="SocialLize Logo" width="200px">
   </div>
   <div>
