@@ -1,63 +1,57 @@
-# 개발 환경
 <span>
-  <h3>진행한 프로젝트</h3>
-
-<p align="center">
-  <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="200px">
-</p>
-
-<p align="center">Grow GitHub 링크</p>
-
-<p align="center">SSR 링크</p>
-<p align="center">
-https://github.com/HaSenugJin/grow-ssr-deploy
-</p>
-
-<p align="center">CSR 링크</p>
-<p align="center">
-https://github.com/HaSenugJin/spring-grow-restapi
-</p>
+  <h1>진행한 프로젝트</h1>
 
 
-<p align="center">
-  <img src="https://github.com/coderyu5523/project-final-flutter/assets/153602328/43997232-c0e8-4d70-969a-ab56c0411a9e" alt="SocialLize Logo" width="200px">
-</p>
-
-<p align="center">Body Key GitHub 링크</p>
-
-<p align="center">Java Spring Server 링크</p>
-<p align="center">
-https://github.com/HaSenugJin/project-final-spring
-</p>
-
-<p align="center">Flutter App 링크</p>
-<p align="center">
-https://github.com/HaSenugJin/project-final-flutter
-</p>
-
-<p align="center">Social Lize GitHub 링크</p>
-
-<p align="center">
-https://github.com/HaSenugJin/social-lize
-</p>
-
-
-<p align="center">
+<p>
   <img src="https://github.com/chugue/grow-ssr-deploy/assets/30003848/a88227f4-671c-44aa-ad06-c50c97d41a82" style="width: 200px; height: auto;">
 </p>
 
 
-<p align="center">Body Key GitHub 링크</p>
+<div>
+  <h2>Grow GitHub 링크</h2>
 
-<p align="center">
+  <h3>SSR 링크</h3>
+  <p>
+  https://github.com/HaSenugJin/grow-ssr-deploy
+  </p>
+  
+  <h3>CSR 링크</h3>
+  <p>
+  https://github.com/HaSenugJin/spring-grow-restapi
+  </p>
+</div>
 
-</p>
+<div>
+  <p>
+    <img src="https://github.com/coderyu5523/project-final-flutter/assets/153602328/43997232-c0e8-4d70-969a-ab56c0411a9e" alt="SocialLize Logo" width="200px">
+  </p>
+  
+  <h2>Body Key GitHub 링크</h2>
+  
+  <h3>Java Spring Server 링크</h3>
+  <p>
+  https://github.com/HaSenugJin/project-final-spring
+  </p>
+  
+  <h3>Flutter App 링크</h3>
+  <p>
+    https://github.com/HaSenugJin/project-final-flutter
+  </p>
+</div>
 
 
+<div> 
+  <p>
+    <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="200px">
+  </p>
+  <h2>Social Lize GitHub 링크</h2>
+  <p>
+  https://github.com/HaSenugJin/social-lize
+  </p>
+</div>
 
 
-
-  <h3>개발 툴</h3>
+  <h3 style="margin-top: 50px;">개발 툴</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor_AI-000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABaElEQVR42mL8//8/AxXAe1CoxAc0K36A/j+QiXArwb6AQUAwIIFw39DZVS5kCwDCC4qCPwPpKlENIAdAQnkTlgP5bMi/gPoZHZFNAHQFSAPkPnUStwNwFByf4//+14a0gzYPzP2PfACZgf5G5BSWBGgEuWHD/gTprgq8DZdDlEU/7rGVB6MxkCWZoCchvIfEVYCpAkLpfnl/8P83/n//f/JzMh/BMUtgvkfwJqBkKnQsQEU/wvI/2q1BS1M0XlHBOoCGADJDwAfIh9jwJX3x4xFzIXqMEfAdYB/Jf/OTM7Iz8n/C9g/8F5ijHjD+BaWJktIF+L5TwwfwDgE+QFWAewGZB7IC7FFvDqFEEgiP2m/8jUzMjo3+v7D8xFNI/XR+aGGgcfF/FchYHJgkCPxT8oVFYHYNRPoFkgUpFCQX8k0MSsBwQCRkCczEKUGQA5kfpJ6IBWTPAKTAmD5GfgFGDoV5uCCxRkApwAN8q9T3IFgAAAABJRU5ErkJggg=="/>
   <h3>FrameWork</h3>
