@@ -1,11 +1,18 @@
 # 개발 환경
 <span>
   <h3>진행한 프로젝트</h3>
+<span>
+  <h3>진행한 프로젝트</h3>
+
   <div>
     <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="200px">
     <img src="https://github.com/coderyu5523/project-final-flutter/assets/153602328/43997232-c0e8-4d70-969a-ab56c0411a9e" alt="SocialLize Logo" width="200px">
-    <img src="https://github.com/chugue/grow-ssr-deploy/assets/30003848/a88227f4-671c-44aa-ad06-c50c97d41a82" style="width: 200px; height: auto; margin-buttom: 50px;">
+    <img src="https://github.com/chugue/grow-ssr-deploy/assets/30003848/a88227f4-671c-44aa-ad06-c50c97d41a82" style="width: 200px; height: auto; margin-bottom: 50px;">
   </div>
+
+  <h3>개발 툴</h3>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&
+
 
   <h3>개발 툴</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
