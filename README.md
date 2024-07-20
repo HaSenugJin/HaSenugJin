@@ -1,9 +1,8 @@
 # 개발 환경
 <span>
   <h3>진행한 프로젝트</h3>
-<p align="center">
   <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="300px">
-</p>
+
 
   <h3>개발 툴</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
