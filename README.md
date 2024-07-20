@@ -2,7 +2,8 @@
 <span>
   <h3>진행한 프로젝트</h3>
   <img src="https://github.com/donghunseol/social-lize/blob/dev/src/main/resources/static/images/logo.png?raw=true" alt="SocialLize Logo" width="200px">
-  ![image](https://github.com/coderyu5523/project-final-flutter/assets/153602328/43997232-c0e8-4d70-969a-ab56c0411a9e)
+    <img src="https://github.com/coderyu5523/project-final-flutter/assets/153602328/43997232-c0e8-4d70-969a-ab56c0411a9e" alt="SocialLize Logo" width="200px">
+
 
 
   <h3>개발 툴</h3>
