@@ -50,6 +50,22 @@
   </p>
 </div>
 
+<div> 
+  <p>
+    <img src="https://github.com/Kongjiyoung/dev-community-flutter/blob/dev/assets/images/fullogo.png?raw=true" alt="Dev's Logo" width="200px">
+  </p>
+  <h2>Dev's GitHub 링크</h2>
+  <h3>Java Spring Server 링크</h3>
+  <p>
+  https://github.com/tkffkels93/devs-project-backend
+  </p>
+  
+  <h3>Flutter App 링크</h3>
+  <p>
+    https://github.com/Kongjiyoung/dev-community-flutter/tree/dev
+  </p>
+</div>
+
 
   <h3 style="margin-top: 50px;">개발 툴</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
